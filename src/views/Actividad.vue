@@ -19,10 +19,10 @@ export default {
   },
   data: () => ({
     cuestionario: {
-      tema: 'Microcontroladores y sensores',
+      tema: 'Cuestionario sobre servicio al cliente y normativa',
       titulo: 'Cuestionario',
       introduccion:
-        '<b>Objetivo:</b> evaluar la comprensión y el uso adecuado de las herramientas básicas en la ventana <em>Board</em> del <em>software</em> EAGLE.',
+        '<b>Objetivo:</b> evaluar la comprensión de los conceptos relacionados con cultura de servicio, atención al cliente, normativa de calidad y protección al consumidor.',
       barajarPreguntas: false,
       titulo_aprobado: '¡BUEN TRABAJO!',
       titulo_reprobado: 'VUELVA A INTENTARLO',
@@ -30,28 +30,28 @@ export default {
         {
           id: 1,
           texto:
-            '¿Cuál es la función principal de la herramienta <em>Layer</em> en la ventana <em>Board</em>?',
+            '¿Cuál es el propósito principal de la cultura de servicio en una organización?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Fortalecer la satisfacción integral del cliente.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Reducir totalmente los costos administrativos.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Incrementar únicamente las ventas mensuales.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Modificar constantemente la imagen corporativa.',
               esCorrecta: false,
             },
           ],
@@ -62,28 +62,28 @@ export default {
         {
           id: 2,
           texto:
-            '¿Qué herramienta permite agregar texto en la ventana <em>Board</em>?',
+            '¿Qué característica del servicio impide almacenarlo para uso posterior?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'La producción ocurre con procesos automatizados.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La prestación depende de recursos financieros.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'Los servicios son perecederos por naturaleza.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'El cliente exige respuestas rápidas siempre.',
               esCorrecta: false,
             },
           ],
@@ -92,28 +92,29 @@ export default {
         },
         {
           id: 3,
-          texto: '¿Para qué sirve la herramienta <em>Show</em> en EAGLE?',
+          texto:
+            '¿Cómo se denomina el cliente que pertenece a la misma organización?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Cliente externo vinculado comercialmente siempre.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Cliente interno relacionado funcionalmente.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Cliente ocasional con compras esporádicas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Cliente potencial interesado en promociones.',
               esCorrecta: false,
             },
           ],
@@ -123,28 +124,28 @@ export default {
         {
           id: 4,
           texto:
-            '¿Qué botón se utiliza para cambiar entre las ventanas <em>Schematic</em> y <em>Board</em>?',
+            '¿Cuál es una función principal del portafolio de servicios empresariales?',
           imagen: '@/assets/actividad/imagen1.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Organizar únicamente la nómina institucional.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Presentar productos y servicios ofrecidos.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Controlar las jornadas laborales del personal.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Registrar exclusivamente los gastos financieros.',
               esCorrecta: false,
             },
           ],
@@ -153,28 +154,29 @@ export default {
         },
         {
           id: 5,
-          texto: '¿Qué permite hacer la herramienta <em>Route</em>?',
+          texto:
+            '¿Qué principio ISO promueve decisiones sustentadas en información confiable?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Toma de decisiones basada en evidencia.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Compromiso del personal administrativo.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Relaciones comerciales con distribuidores.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Orientación estratégica hacia proveedores.',
               esCorrecta: false,
             },
           ],
@@ -184,28 +186,28 @@ export default {
         {
           id: 6,
           texto:
-            '¿Qué función tiene la herramienta <em>Auto</em> en la ventana <em>Board</em>?',
+            '¿Qué debe reflejar principalmente la imagen personal corporativa?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Improvisación permanente durante la atención.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Profesionalismo y confianza institucional.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Preferencias individuales sobre vestimenta.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Cambios frecuentes en la identidad visual.',
               esCorrecta: false,
             },
           ],
@@ -215,28 +217,28 @@ export default {
         {
           id: 7,
           texto:
-            '¿Cuál es una recomendación al ubicar los componentes en la ventana <em>Board</em>?',
+            '¿Qué busca garantizar la norma GTC ISO 10002 en las organizaciones?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'Gestión adecuada de las quejas del cliente.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'Producción masiva de artículos comerciales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Automatización completa de los procesos.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Incremento obligatorio del talento humano.',
               esCorrecta: false,
             },
           ],
@@ -245,29 +247,28 @@ export default {
         },
         {
           id: 8,
-          texto:
-            '¿Cuál de las siguientes capas se utiliza para añadir texto en el diseño?',
+          texto: '¿Cuál es el objetivo principal de la Ley 1480 de 2011?',
           imagen: '@/assets/actividad/imagen2.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Regular exclusivamente la contratación pública.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Garantizar derechos de los consumidores.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Promover únicamente campañas publicitarias.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Supervisar las exportaciones manufactureras.',
               esCorrecta: false,
             },
           ],
@@ -277,28 +278,28 @@ export default {
         {
           id: 9,
           texto:
-            'La herramienta <em>Text</em> en la ventana <em>Board</em> solo permite cambiar el color de las capas.',
+            '¿Qué elemento corporativo resume la propuesta de valor de una marca?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
+              texto: 'El uniforme utilizado por los colaboradores.',
+              esCorrecta: false,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La estructura financiera de la empresa.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
-              esCorrecta: false,
+              texto: 'El slogan breve y recordable institucional.',
+              esCorrecta: true,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'La distribución interna de las oficinas.',
               esCorrecta: false,
             },
           ],
@@ -308,28 +309,28 @@ export default {
         {
           id: 10,
           texto:
-            'La herramienta <em>Layer</em> permite seleccionar y editar capas para definir márgenes, pistas y componentes.',
+            '¿Qué debe realizarse durante la etapa de escucha activa al cliente?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Ignorar comentarios difíciles del usuario.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Formular preguntas claras sobre necesidades.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Transferir inmediatamente todas las llamadas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Finalizar rápidamente la atención recibida.',
               esCorrecta: false,
             },
           ],
@@ -339,28 +340,28 @@ export default {
         {
           id: 11,
           texto:
-            'El botón "<em>BOARD</em>" en EAGLE solo sirve para borrar componentes en el diseño.',
+            '¿Qué norma orienta las transacciones electrónicas con consumidores?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'La GTC ISO 10008 sobre comercio electrónico.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La ISO 9001 relacionada con manufactura.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'La Ley 1480 enfocada en garantías físicas.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'La ISO 10010 centrada en cultura laboral.',
               esCorrecta: false,
             },
           ],
@@ -370,28 +371,28 @@ export default {
         {
           id: 12,
           texto:
-            'La herramienta <em>Show</em> permite resaltar conexiones para facilitar la identificación de redes.',
+            '¿Qué principio debe aplicarse en la resolución justa de conflictos?',
           imagen: '@/assets/actividad/imagen3.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Competencia comercial entre organizaciones.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Imparcialidad durante todo el proceso.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Publicidad constante de las reclamaciones.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Restricción parcial del acceso ciudadano.',
               esCorrecta: false,
             },
           ],
@@ -401,28 +402,28 @@ export default {
         {
           id: 13,
           texto:
-            'La función <em>Auto</em> se utiliza para enrutado automático en la ventana <em>Board</em>.',
+            '¿Qué característica del servicio depende del comportamiento humano variable?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'La heterogeneidad presente en la atención.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La perecibilidad asociada al almacenamiento.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'La simultaneidad propia del consumo inmediato.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'La integralidad aplicada en los procesos.',
               esCorrecta: false,
             },
           ],
@@ -432,28 +433,28 @@ export default {
         {
           id: 14,
           texto:
-            'La herramienta <em>Route</em> en la ventana <em>Board</em> ajusta automáticamente todas las pistas del diseño.',
+            '¿Qué busca fortalecer la Política Nacional de Servicio al Ciudadano?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
+              texto: 'La satisfacción y confianza ciudadana.',
               esCorrecta: true,
             },
             {
               id: 'b',
-              texto: 'bNames',
+              texto: 'La privatización de servicios institucionales.',
               esCorrecta: false,
             },
             {
               id: 'c',
-              texto: 'tStop',
+              texto: 'La reducción inmediata del gasto público.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'La creación exclusiva de normas jurídicas.',
               esCorrecta: false,
             },
           ],
@@ -463,28 +464,183 @@ export default {
         {
           id: 15,
           texto:
-            'Es recomendable organizar los componentes en bloques funcionales como transformación y filtrado en la ventana <em>Board</em>.',
+            '¿Cuál es un beneficio del uso adecuado del uniforme profesional?',
           imagen: '@/assets/actividad/imagen4.png',
           barajarRespuestas: true,
           opciones: [
             {
               id: 'a',
-              texto: 'tPlace',
-              esCorrecta: true,
-            },
-            {
-              id: 'b',
-              texto: 'bNames',
+              texto: 'Ocultar totalmente la identidad corporativa.',
               esCorrecta: false,
             },
             {
+              id: 'b',
+              texto: 'Facilitar el reconocimiento institucional.',
+              esCorrecta: true,
+            },
+            {
               id: 'c',
-              texto: 'tStop',
+              texto: 'Modificar continuamente la cultura laboral.',
               esCorrecta: false,
             },
             {
               id: 'd',
-              texto: 'bValues',
+              texto: 'Disminuir la interacción con los clientes.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 16,
+          texto:
+            '¿Qué debe hacer una organización con los datos personales del cliente?',
+          imagen: '@/assets/actividad/imagen4.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Divulgarlos libremente entre proveedores externos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'b',
+              texto: 'Garantizar seguridad y confidencialidad.',
+              esCorrecta: true,
+            },
+            {
+              id: 'c',
+              texto: 'Publicarlos en medios digitales corporativos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Transferirlos sin autorización del titular.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 17,
+          texto:
+            '¿Qué permite medir la norma GTC ISO 10004 en una organización?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'La satisfacción percibida por los clientes.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'La cantidad anual de ventas realizadas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'La productividad individual de operarios.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La inversión destinada a publicidad digital.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 18,
+          texto:
+            '¿Qué representa la promesa básica dentro del servicio al cliente?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'El compromiso inicial ofrecido al cliente.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'La estrategia financiera de los accionistas.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'El procedimiento técnico para exportaciones.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'La política interna sobre vacaciones laborales.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 19,
+          texto:
+            '¿Qué elemento influye directamente en la percepción emocional del público?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Los colores institucionales de la empresa.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Las reuniones privadas de los directivos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Los registros contables de la organización.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Las actividades internas de capacitación.',
+              esCorrecta: false,
+            },
+          ],
+          mensaje_correcto: '¡Muy bien! Ha acertado la respuesta.',
+          mensaje_incorrecto: 'Lo sentimos, su respuesta no es la correcta.',
+        },
+        {
+          id: 20,
+          texto:
+            '¿Qué pretende fomentar la norma GTC ISO 10010 en las organizaciones?',
+          imagen: '@/assets/actividad/imagen1.png',
+          barajarRespuestas: true,
+          opciones: [
+            {
+              id: 'a',
+              texto: 'Una cultura organizacional orientada a calidad.',
+              esCorrecta: true,
+            },
+            {
+              id: 'b',
+              texto: 'Una reducción total de procesos internos.',
+              esCorrecta: false,
+            },
+            {
+              id: 'c',
+              texto: 'Una dependencia exclusiva de la tecnología.',
+              esCorrecta: false,
+            },
+            {
+              id: 'd',
+              texto: 'Una gestión basada solo en productividad.',
               esCorrecta: false,
             },
           ],
