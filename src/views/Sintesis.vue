@@ -8,7 +8,7 @@
           figure
             img(src="@/assets/curso/sintesis.svg", alt="La imagen presenta la estructura temática de un componente formativo relacionado con servicio al cliente y normatividad, integrando aspectos de atención, fidelización, imagen corporativa, gestión de calidad, normas ISO, protección al consumidor y fortalecimiento de la atención orientada al ciudadano.")
         .col-auto
-          a.anexo.mb-5(:href="obtenerLink('/downloads/Sintesis.pdf')" target="_blank")
+          a.anexo.mb-5(:href="obtenerLink('/downloads/Anexos/Sintesis.pdf')" target="_blank")
             .anexo__icono
               img(src="@/assets/bullets/icono-pdf.svg")
             .anexo__texto
