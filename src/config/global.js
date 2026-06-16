@@ -43,7 +43,7 @@ export default {
           },
           {
             numero: '1.2',
-            titulo: 'Cultura de Servicio',
+            titulo: 'Cultura de servicio',
             hash: 't_1_2',
           },
           {
@@ -195,7 +195,7 @@ export default {
           },
           {
             numero: '5.2',
-            titulo: 'Estatuto del Consumidor (Ley 1480 de 2011)',
+            titulo: 'Estatuto del consumidor (Ley 1480 de 2011)',
             hash: 't_5_2',
           },
           {
@@ -291,7 +291,7 @@ export default {
     {
       termino: 'Protección de datos',
       significado:
-        'medidas destinadas a garantizar privacidad de la información personal.',
+        'medidas destinadas a garantizar la privacidad de la información personal.',
     },
   ],
   referencias: [

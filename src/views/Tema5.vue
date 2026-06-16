@@ -102,7 +102,7 @@
         figcaption.fit___figcaption-video #[b Video]. Ley estatutaria 1581 de 2012: disposiciones generales para la protección de datos personales  
       Separador
       #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 5.2 Estatuto del Consumidor (Ley 1480 de 2011)
+        h2 5.2 Estatuto del consumidor (Ley 1480 de 2011)
       p.mb-5 El Estatuto del Consumidor es una norma colombiana orientada a proteger los derechos de los consumidores y regular las relaciones entre clientes y proveedores, promoviendo prácticas comerciales justas, transparentes y seguras. Las consideraciones generales del estatuto son:
       .bg___slider.mb-0
         .px-5
@@ -144,23 +144,23 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Garantizar calidad. 
+                      | Garantizar calidad
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Brindar información clara. 
+                      | Brindar información clara
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Responder por garantías. 
+                      | Responder por garantías
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Evitar publicidad engañosa. 
+                      | Evitar publicidad engañosa
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Cumplir condiciones ofrecidas.
+                      | Cumplir condiciones ofrecidas
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/img124.png', alt='' style="max-width: 500px").m-auto
@@ -204,23 +204,23 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Reparación. 
+                      | Reparación
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Reemplazo. 
+                      | Reemplazo
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Devolución del dinero. 
+                      | Devolución del dinero
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Garantía legal. 
+                      | Garantía legal
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Responsabilidad del proveedor.
+                      | Responsabilidad del proveedor
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/img126.png', alt='' style="max-width: 500px").m-auto
@@ -262,7 +262,7 @@
       Separador
       #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 5.3 CONPES 3649 – Política Nacional de Servicio al Ciudadano
-      p.mb-5 Tiene como objetivo establecer los lineamientos generales para desarrollar acciones encaminadas a incrementar la confianza y la satisfacción de la ciudadanía con los servicios prestados por la Administración Pública Nacional, ya sea de manera directa o a través de particulares. Los componentes clave dela política son:
+      p.mb-5 Tiene como objetivo establecer los lineamientos generales para desarrollar acciones encaminadas a incrementar la confianza y la satisfacción de la ciudadanía con los servicios prestados por la Administración Pública Nacional, ya sea de manera directa o a través de particulares. Los componentes clave de la política son:
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -282,7 +282,7 @@
           figure
             img(src="@/assets/curso/temas/img23.svg" style="max-width: 60px").m-auto
         .col
-          h3 Resultados Esperados 
+          h3 Resultados esperados 
       p.mb-5 La implementación del CONPES 3649 busca fortalecer la calidad y cobertura de los servicios ofrecidos por la Administración Pública, promoviendo una atención más eficiente, transparente y centrada en las necesidades de los ciudadanos. Asimismo, contribuye al fortalecimiento institucional de las entidades públicas, favoreciendo una gestión más moderna, cercana y orientada a resultados.
 
 </template>

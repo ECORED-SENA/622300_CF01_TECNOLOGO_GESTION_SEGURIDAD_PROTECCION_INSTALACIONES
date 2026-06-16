@@ -56,7 +56,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Percepción externa.
+                      | Percepción externa
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
@@ -64,7 +64,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Opinión del público.
+                      | Opinión del público
             .col-xl-4.col-md-9(data-aos="zoom-in")
               .box___style_3.h-100
                 .row.justify-content-center.mb-3
@@ -76,7 +76,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Proyección interna.
+                      | Proyección interna
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
@@ -84,7 +84,7 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Estrategia organizacional.
+                      | Estrategia organizacional
           p.mb-5 Los recursos clave que facilitan la identificación de una organización, desde el reconocimiento visual y auditivo por parte del público, son:
           .row.justify-content-center.mb-5
             .col-lg-10
@@ -227,7 +227,7 @@
               .col-lg.fit___pasosA-left
                 h3 Cierre y despedida
                 p.mb-0 El momento final del servicio debe dejar una impresión positiva. La despedida debe ser amable y respetuosa, asegurando que la necesidad del cliente haya sido completamente atendida.
-      p.mb-0 En el siguiente capitulo se estudiará detalladamente la gestión de la calidad y las normas ISO.
+      p.mb-0 En el siguiente capítulo se estudiará detalladamente la gestión de la calidad y las normas ISO.
 
 </template>
 

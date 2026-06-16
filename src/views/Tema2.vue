@@ -52,7 +52,7 @@
                     .col-8
                       img(src='@/assets/curso/temas/img27.svg' style="max-width: 90px").m-auto
                   h4.mb-3.estilo-text Producción
-                  p.mb-0.text-center Provee al #[u área de calidad y de ventas] (clientes internos). Transforma para sus clientes internos los insumos en productos terminados, según estándares establecidos
+                  p.mb-0.text-center Provee al #[u área de calidad y de ventas] (clientes internos). Transforma para sus clientes internos los insumos en productos terminados, según estándares establecidos.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
@@ -69,7 +69,7 @@
       .row.justify-content-center.align-items-center.mb-5
         .col-xl.mb-4.mb-lg-0
           .box___style_2.fit___box_2-1(data-aos="fade-right")
-            p.mb-0 #[b Caso práctico:] en una empresa manufacturera que confecciona camisas para hombre, el área de producción depende del departamento de insumos, el cual le proporciona materias primas como telas e hilos. Esta relación convierte al área de producción en un cliente interno del área de insumos. Los productos terminados son entregados a otros clientes, que pueden ser tanto internos como externos, lo que evidencia una cadena de valor interna basada en la colaboración entre departamentos. Reflexione según este ejemplo ¿Cómo puede esta empresa fortalecer la relación entre sus áreas internas para mejorar la eficiencia y la calidad del producto final?
+            p.mb-0 #[b Caso práctico:] en una empresa manufacturera que confecciona camisas para hombre, el área de producción depende del departamento de insumos, el cual le proporciona materias primas como telas e hilos. Esta relación convierte al área de producción en un cliente interno del área de insumos. Los productos terminados son entregados a otros clientes, que pueden ser tanto internos como externos, lo que evidencia una cadena de valor interna basada en la colaboración entre departamentos. Reflexione según este ejemplo: ¿Cómo puede esta empresa fortalecer la relación entre sus áreas internas para mejorar la eficiencia y la calidad del producto final?
         .col-xl-auto.col-md-9(data-aos="fade-left")
           figure
             img(src='@/assets/curso/temas/img30.png', alt='').m-auto
@@ -332,19 +332,19 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Cortesía.
+                      | Cortesía
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Buenos modales.
+                      | Buenos modales
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Trato amable.
+                      | Trato amable
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Comunicación adecuada.
+                      | Comunicación adecuada
             .col-xl-4.col-md-9(data-aos="zoom-in")
               .box___style_3.h-100
                 .row.justify-content-center.mb-3
@@ -356,19 +356,19 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Organización.
+                      | Organización
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Procedimientos.
+                      | Procedimientos
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Normas institucionales.
+                      | Normas institucionales
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Atención estructurada.
+                      | Atención estructurada
           p.mb-0 La cultura organizacional influye en la aplicación de la etiqueta y el protocolo en el servicio al cliente. García (2016) señala que fortalecer la cultura de servicio contribuye al mejoramiento interno y a la calidad de la atención ofrecida.
       Separador
       #t_2_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -398,12 +398,12 @@
         .bloque-texto-g__img(
           :style="{ backgroundImage: `url(${require_src('@/assets/curso/temas/img55.jpg')})` }")
         .bloque-texto-g__texto.p-4
-          p.mb-0 En muchos países, como ejemplo: Estados Unidos y algunos de Europa, se permite el uso de ropa casual los viernes, esto incluye prendas como camisetas, chaquetas cómodas, pantalones tipo chino y calzado deportivo urbano. Vestir de forma informal no significa descuidada; esta tendencia se ha proliferado incluso en otros países como es el caso de Colombia.
+          p.mb-0 En muchos países, como ejemplo: Estados Unidos y algunos de Europa, se permite el uso de ropa casual los viernes; esto incluye prendas como camisetas, chaquetas cómodas, pantalones tipo chino y calzado deportivo urbano. Vestir de forma informal no significa descuidada; esta tendencia se ha proliferado incluso en otros países, como es el caso de Colombia.
 
 </template>
 
 <script>
-import audio1 from '@/assets/componentes/audios/audio-ej.mp3'
+import audio1 from '@/assets/componentes/audios/podcast_imagen_personal_entorno_laboral.mp3'
 export default {
   name: 'Tema2',
   data: () => ({

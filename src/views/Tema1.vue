@@ -29,7 +29,7 @@
         figcaption.fit___figcaption-video #[b Video]. Introducción a la atención y servicio al cliente
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
-        h2 1.2 Cultura de Servicio
+        h2 1.2 Cultura de servicio
       p.mb-5 La cultura de servicio fortalece la atención al cliente mediante actitudes y valores orientados a la satisfacción del usuario. Seguidamente, se invita al aprendiz a explorar el siguiente video introductorio sobre el tema.
       figure(data-aos="zoom-in").mb-5
         .video
@@ -54,23 +54,23 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Clientes satisfechos y fieles.
+                      | Clientes satisfechos y fieles
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Mejor desempeño y productividad.
+                      | Mejor desempeño y productividad
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Ambiente laboral saludable.
+                      | Ambiente laboral saludable
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Fortalece la imagen y reputación.
+                      | Fortalece la imagen y reputación
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Ventaja competitiva en el mercado.
+                      | Ventaja competitiva en el mercado
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/img5.png', alt='' style="max-width: 500px").m-auto
@@ -82,27 +82,27 @@
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Actitudes positivas.
+                      | Actitudes positivas
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Trato respetuoso y empático.
+                      | Trato respetuoso y empático
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Confianza y credibilidad.
+                      | Confianza y credibilidad
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Disposición de servir.
+                      | Disposición de servir
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Compromiso con la calidad.
+                      | Compromiso con la calidad
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/img6.png', alt='' style="max-width: 500px").m-auto
-      p.mb-5 A continuacion, se resumen los principales elementos esenciales de la cultura de servicio en las organizaciones.
+      p.mb-5 A continuación, se resumen los principales elementos esenciales de la cultura de servicio en las organizaciones.
       .bg___carrusel
         .px-5
           .row.align-items-center.mb-5

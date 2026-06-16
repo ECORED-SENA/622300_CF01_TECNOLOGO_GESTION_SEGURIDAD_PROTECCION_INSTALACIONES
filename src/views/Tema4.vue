@@ -68,46 +68,46 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Generar confianza. 
+                  | Generar confianza
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Cumplir promesas. 
+                  | Cumplir promesas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mejorar la satisfacción. 
+                  | Mejorar la satisfacción
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Prevenir quejas. 
+                  | Prevenir quejas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Fortalecer la relación con el cliente.
+                  | Fortalecer la relación con el cliente
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Promover comunicación transparente.
+                  | Promover comunicación transparente
             .row(titulo="¿Qué son los códigos de conducta?").ajuste-cajaAcordion.ajuste-vineta
               p  Son un conjunto de compromisos y reglas que orientan el comportamiento de la organización frente al cliente. Estos permiten:
               ul.fa-ul.mb-0
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Guiar la atención. 
+                  | Guiar la atención
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Definir compromisos. 
+                  | Definir compromisos
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Promover transparencia. 
+                  | Promover transparencia
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mejorar la experiencia del usuario.
+                  | Mejorar la experiencia del usuario
       .row.align-items-center.mb-0
         .col-xl
           AcordionA(tipo="a" clase-tarjeta="tarjeta tarjeta--azul")(data-aos="fade-right")
@@ -117,23 +117,23 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Empresas. 
+                  | Empresas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Entidades públicas. 
+                  | Entidades públicas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Organizaciones privadas. 
+                  | Organizaciones privadas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Negocios pequeños. 
+                  | Negocios pequeños
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Grandes organizaciones.
+                  | Grandes organizaciones
               p.mb-3 Cualquier organización que busque fortalecer la confianza y cumplir adecuadamente lo prometido al cliente.
             .row(titulo="¿Cómo se implementa?").ajuste-cajaAcordion
               p Etapas:
@@ -141,27 +141,27 @@
                 li
                   .lista-ol--cuadro__vineta
                     span 1
-                  | Definir compromisos. 
+                  | Definir compromisos
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Diseñar códigos de conducta. 
+                  | Diseñar códigos de conducta
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | Implementar lineamientos. 
+                  | Implementar lineamientos
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Comunicar al personal. 
+                  | Comunicar al personal
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | Evaluar cumplimiento. 
+                  | Evaluar cumplimiento
                 li 
                   .lista-ol--cuadro__vineta
                     span 6
-                  | Mejorar continuamente.
+                  | Mejorar continuamente
             .row(titulo="Importancia de la norma").ajuste-cajaAcordion
               p.mb-3 La aplicación de la GTC ISO 10001 permite fortalecer la credibilidad organizacional, mejorar la satisfacción del cliente y consolidar relaciones basadas en la confianza y el cumplimiento de compromisos.
         .col-xl-auto(data-aos="fade-left")
@@ -184,45 +184,45 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Gestionar quejas adecuadamente.
+                  | Gestionar quejas adecuadamente
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mejorar la atención al cliente.
+                  | Mejorar la atención al cliente
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Generar confianza. 
+                  | Generar confianza
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Fortalecer la satisfacción. 
+                  | Fortalecer la satisfacción
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Promover mejora continua.
+                  | Promover mejora continua
             .row(titulo="¿Para quién aplica?").ajuste-cajaAcordion.ajuste-vineta
               ul.fa-ul.mb-3
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Empresas. 
+                  | Empresas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Organizaciones públicas. 
+                  | Organizaciones públicas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Negocios privados. 
+                  | Negocios privados
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Instituciones de servicios. 
+                  | Instituciones de servicios
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Organizaciones sin certificación ISO.
+                  | Organizaciones sin certificación ISO
               p.mb-3 Puede ser implementada por cualquier organización interesada en fortalecer la gestión de quejas y la relación con sus clientes.
       .row.align-items-center.mb-5
         .col-xl
@@ -233,50 +233,50 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Trato respetuoso y empático. 
+                  | Trato respetuoso y empático
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Acceso sin barreras. 
+                  | Acceso sin barreras
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Transparencia. 
+                  | Transparencia
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Respuestas oportunas. 
+                  | Respuestas oportunas
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mejora continua.
+                  | Mejora continua
             .row(titulo="Proceso de gestión de quejas").ajuste-cajaAcordion
               p Esta norma establece un enfoque integral para la gestión de quejas, comenzando con la planificación del proceso desde su diseño hasta la recepción de estas. EL proceso es:
               ol.lista-ol--cuadro.mb-0
                 li
                   .lista-ol--cuadro__vineta
                     span 1
-                  | Recepción de la queja. 
+                  | Recepción de la queja
                 li 
                   .lista-ol--cuadro__vineta
                     span 2
-                  | Evaluación del caso. 
+                  | Evaluación del caso
                 li 
                   .lista-ol--cuadro__vineta
                     span 3
-                  | Investigación. 
+                  | Investigación
                 li 
                   .lista-ol--cuadro__vineta
                     span 4
-                  | Respuesta al cliente. 
+                  | Respuesta al cliente
                 li 
                   .lista-ol--cuadro__vineta
                     span 5
-                  | Seguimiento. 
+                  | Seguimiento
                 li 
                   .lista-ol--cuadro__vineta
                     span 6
-                  | Análisis y mejora.
+                  | Análisis y mejora
             .row(titulo="Importancia de la norma").ajuste-cajaAcordion
               p.mb-3 La GTC ISO 10002 permite transformar las quejas en oportunidades de mejora, fortaleciendo la satisfacción del cliente, la transparencia y la calidad del servicio organizacional.
         .col-xl-auto(data-aos="fade-left")
@@ -352,7 +352,7 @@
       Separador
       #t_4_4.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 4.4 GTC ISO 10003 y principios para resolución justa de conflictos con el cliente
-      p.mb-5 En el siguiente apartado se describe los aspectos relacionados con la norma GTC ISO 10003:2018.
+      p.mb-5 En el siguiente apartado se describen los aspectos relacionados con la norma GTC ISO 10003:2018.
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -474,7 +474,7 @@
           Separador
           #t_4_5.titulo-segundo.color-acento-contenido(data-aos="fade-right")
             h2 4.5 GTC ISO 10004, proceso de medición y medición de la satisfacción
-      p.mb-5 Conforme se presenta a continuación, se conocerá los elementos fundamentales de la norma GTC-ISO 10004:2019.
+      p.mb-5 Conforme se presenta a continuación, se conocerán los elementos fundamentales de la norma GTC-ISO 10004:2019.
       .row.align-items-center.mb-5
         .col-xl-auto(data-aos="fade-right")
           figure.d-none.d-xl-block
@@ -550,7 +550,7 @@
               .col-auto(data-aos="zoom-in")
                 figure
                   img(src='@/assets/curso/temas/img99.png', alt='' style="width: 300px").m-auto
-      p.mb-5 La #[b medición de la satisfacción] permite conocer la percepción y experiencia de los clientes frente a los productos, servicios y procesos de atención, facilitando la identificación de oportunidades de mejora y el fortalecimiento de la fidelización. A continuación, se presenta los elementos generales:
+      p.mb-5 La #[b medición de la satisfacción] permite conocer la percepción y experiencia de los clientes frente a los productos, servicios y procesos de atención, facilitando la identificación de oportunidades de mejora y el fortalecimiento de la fidelización. A continuación, se presentan los elementos generales:
       .bg___slider.mb-0
         .px-5
           .ajuste-slider(data-aos="zoom-in")
@@ -669,54 +669,54 @@
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Fortalecer confianza digital. 
+                  | Fortalecer confianza digital
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Proteger al consumidor. 
+                  | Proteger al consumidor
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Garantizar información clara. 
+                  | Garantizar información clara
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Promover compras seguras. 
+                  | Promover compras seguras
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Mejorar experiencia del cliente. 
+                  | Mejorar experiencia del cliente
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Prevenir conflictos electrónicos.
+                  | Prevenir conflictos electrónicos
             .row(titulo="¿A quién aplica?").ajuste-cajaAcordion.ajuste-vineta
               p Aplica a organizaciones que ofrecen productos o servicios mediante canales electrónicos, tales como:
               ul.fa-ul.mb-0
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Tiendas virtuales. 
+                  | Tiendas virtuales
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Aplicaciones móviles. 
+                  | Aplicaciones móviles
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Plataformas de pago. 
+                  | Plataformas de pago
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Servicios de suscripción. 
+                  | Servicios de suscripción
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Emprendimientos digitales. 
+                  | Emprendimientos digitales
                 li.mb-0
                   span.fa-li
                     i.fas.fa-check-circle
-                  | Empresas de comercio electrónico.
+                  | Empresas de comercio electrónico
             .row(titulo="Importancia de la norma").ajuste-cajaAcordion
               p.mb-3 La implementación de la GTC ISO 10008 permite fortalecer la seguridad, transparencia y confianza en los entornos digitales, mejorando la experiencia del consumidor electrónico.
       p.mb-5 Los aspectos para abordar en la norma son los siguientes:
@@ -748,7 +748,7 @@
                     .col-8
                       img(src='@/assets/curso/temas/img108.svg' style="max-width: 90px").m-auto
                   h4.mb-3.estilo-text Políticas visibles
-                  p.mb-0.text-center Informar claramente devoluciones, garantías y atención de quejas.
+                  p.mb-0.text-center Informar claramente sobre devoluciones, garantías y atención de quejas.
                 .tarjeta.color-acento-botones.p-4
                   .row.justify-content-center.mb-3
                     .col-8
@@ -866,28 +866,28 @@
               .row.justify-content-center.align-items-center
                 .col-xl-6.mb-4
                   h4 ¿A quién aplica?
-                  p La norma aplicar para:
+                  p La norma aplica para:
                   ul.fa-ul.estilo___ul.mb-0
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Empresas. 
+                      | Empresas
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Entidades públicas. 
+                      | Entidades públicas
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Organizaciones privadas. 
+                      | Organizaciones privadas
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Pequeñas empresas. 
+                      | Pequeñas empresas
                     li.mb-0
                       span.fa-li
                         i.fas.fa-check-circle
-                      | Organizaciones con ISO 9001.
+                      | Organizaciones con ISO 9001
                 .col-xl-6
                   figure
                     img(src='@/assets/curso/temas/img115.png', alt='' style="max-width: 500px").m-auto
