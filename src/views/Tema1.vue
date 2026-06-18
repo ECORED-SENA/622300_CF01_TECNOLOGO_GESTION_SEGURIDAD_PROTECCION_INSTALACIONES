@@ -25,7 +25,7 @@
       p.mb-5 A continuación, se invita a reproducir el siguiente video:
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/tbK4Pl70vzY" title="Introducción a la atención y servicio al cliente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video #[b Video]. Introducción a la atención y servicio al cliente
       Separador
       #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
@@ -33,7 +33,7 @@
       p.mb-5 La cultura de servicio fortalece la atención al cliente mediante actitudes y valores orientados a la satisfacción del usuario. Seguidamente, se invita al aprendiz a explorar el siguiente video introductorio sobre el tema.
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/EKxNQ2HfPvU" title="Cultura de servicio al cliente" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video #[b Video]. Cultura de servicio al cliente  
       p.mb-5 Con el propósito de fortalecer la comprensión del tema, se presenta la importancia, beneficios e impacto de la cultura de servicio.
       .bg___slider.mb-5

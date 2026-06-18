@@ -285,15 +285,15 @@
           p.mb-5 Los protocolos de servicio al cliente establecen pautas de atención y comunicación que permiten brindar experiencias organizadas, respetuosas, eficientes y orientadas a la satisfacción del usuario. Se invita a reproducir el siguiente del tema.
       figure(data-aos="zoom-in").mb-0
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-        figcaption.fit___figcaption-video #[b Video]. Protocolos de servicio al cliente: introducción  
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/5zMv__9uPNc" title="Protocolos de servicio al cliente introducción" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        figcaption.fit___figcaption-video #[b Video]. Protocolos de servicio al cliente: introducción
       Separador
       #t_2_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
         h2 2.3 Etiqueta empresarial
       p.mb-5 Las relaciones con los clientes requieren conductas adecuadas, comunicación respetuosa y organización en la atención. En este recurso audiovisual se desarrollan aspectos fundamentales de etiqueta y protocolo aplicados al servicio al cliente.
       figure(data-aos="zoom-in").mb-5
         .video
-          iframe(width="560" height="315" src="https://www.youtube.com/embed/2L91WMqw96A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+          iframe(width="560" height="315" src="https://www.youtube.com/embed/Ejnglc-rhNw" title="Normas de etiqueta y protocolo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
         figcaption.fit___figcaption-video #[b Video]. Normas de etiqueta y protocolo 
       p.mb-5 En desarrollo del tema, se dará paso a conocer los conceptos de etiqueta y protocolo:
       .color___box_1
