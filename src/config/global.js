@@ -417,9 +417,40 @@ export default {
       titulo: 'CONTENIDO INSTRUCCIONAL',
       autores: [
         {
-          nombre: '',
-          cargo: '',
-          centro: 'Centro XYZ - Regional XYZ',
+          nombre: 'María Angelica Gómez Morales',
+          cargo: 'Experta temática',
+          centro:
+            'Centro Agroempresarial y Desarrollo Pecuario - Regional Huila',
+        },
+        {
+          nombre: 'Ana Roció Rosero Cortes',
+          cargo: 'Experta temática',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital',
+        },
+        {
+          nombre: 'Leonardo Camacho Acevedo ',
+          cargo: 'Experto temático ',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Alba Mireya Orjuela Toro ',
+          cargo: 'Experta temática ',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital ',
+        },
+        {
+          nombre: 'Juan Pablo Cristancho Cubillos ',
+          cargo: 'Experto temático ',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital ',
+        },
+        {
+          nombre: 'María Angelica Gómez Morales ',
+          cargo: 'Experta temática ',
+          centro:
+            'Centro de Gestión Administrativa – Regional Distrito Capital ',
         },
         {
           nombre: 'Paula Marcela Vidal Quintero',
